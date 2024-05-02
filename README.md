@@ -1,9 +1,9 @@
-# CE{Code of Course}-{Short Name of Course}
-Solutions to Prof. {Name of Prof}'s CE{Code of Course}: {Full Name of Course} ({Name of Uni} - {Semester} {Year}) Assignments
+# CE108-CW
+Solutions to Mr. Hosseinkhani's CE108: Computer Workshop (Sharif University of Technology - Fall 2022) Assignments
 
 ## Overview
 
-This repository contains solutions to the assignments for the CE{Code of Course}: {Full Name of Course} course at the {Name of Uni}, {Semester} {Year}, taught by Prof. {Name of Prof}.
+This repository contains solutions to the assignments for the CE108: Computer Workshop course at the Sharif University of Technology - Fall 2022, taught by Mr. Hosseinkhani.
 
 ## Table of Contents
 
